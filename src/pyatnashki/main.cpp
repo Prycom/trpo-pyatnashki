@@ -1,6 +1,6 @@
 #include <libpyatnashki/Game.h>
 
-int main(){
-    Game();
-    return 0;
+int main() {
+  Game();
+  return 0;
 }
